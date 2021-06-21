@@ -14,6 +14,6 @@ public class changecolor : MonoBehaviour
 
     public void ChangeColor()
     {
-        thething.color = Color.green;
+        thething.color = Color.red;
     }
 }
